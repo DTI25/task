@@ -40,7 +40,7 @@ $kol_st = count($st_name)-1;
 		<tr>
 			<td></td>
 			<td></td>
-			<td><input type="submit" name="search" value="Добавить"></td>
+			<td><input type="submit" name="search" value="Редактировать"></td>
 		</tr>
 	</table>
 </form>
